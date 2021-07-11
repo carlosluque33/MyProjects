@@ -1,4 +1,4 @@
-# ABOUT THIS REPOSITORIES🚀
+# ABOUT THIS REPOSITORY🚀
 Welcome!
 My name is Carlos Luque,I'm a Spanish Programmer.
 In my free time,I try to make all courses I can,to improve my skills and make my Own Projects.
